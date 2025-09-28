@@ -1,1 +1,0 @@
-print("Core State Test")

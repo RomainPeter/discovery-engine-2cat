@@ -1,1 +1,0 @@
-print("Hermetic Runner Test")
