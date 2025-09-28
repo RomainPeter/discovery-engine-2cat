@@ -1,0 +1,1 @@
+print("Merkle Journal Test")
