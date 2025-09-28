@@ -1,0 +1,1 @@
+print("RegTech Bench Test")
