@@ -1,0 +1,27 @@
+# Discovery Engine 2-Cat Requirements
+
+# Core dependencies
+numpy>=1.21.0
+asyncio
+dataclasses
+typing-extensions
+
+# ML/RL dependencies
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# JSON Schema validation
+jsonschema>=4.0.0
+
+# Async HTTP (for OPA client)
+aiohttp>=3.8.0
+
+# Development dependencies
+pytest>=6.0.0
+pytest-asyncio>=0.18.0
+black>=22.0.0
+ruff>=0.1.0
+
+# Proof Engine Core (submodule)
+# Note: proof-engine-core is included as a git submodule
+# Version constraints: >=0.1.0,<0.2.0
