@@ -374,3 +374,4 @@ if __name__ == "__main__":
     else:
         print("\n🔧 Migration validation failed. Please review and fix issues.")
         exit(1)
+
