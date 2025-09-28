@@ -1,0 +1,9 @@
+{
+  "coverage_gain_avg": null,
+  "novelty_avg": null,
+  "mdl_compression_avg": null,
+  "delta_local_avg": null,
+  "audit_cost_ms_avg": null,
+  "incidents_avg": null,
+  "delta_incidents_corr": null
+}
