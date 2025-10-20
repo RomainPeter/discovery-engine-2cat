@@ -45,7 +45,7 @@ colorama==0.4.6
     # via
     #   mkdocs-material
     #   radon
-cryptography==46.0.1
+cryptography==46.0.3
     # via -r requirements.in
 distlib==0.4.0
     # via virtualenv
