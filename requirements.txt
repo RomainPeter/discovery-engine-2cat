@@ -176,7 +176,7 @@ pytest==8.4.2
     # via -r requirements.in
 python-dateutil==2.9.0.post0
     # via ghp-import
-python-dotenv==1.1.1
+python-dotenv==1.2.1
     # via -r requirements.in
 pytokens==0.1.10
     # via black
